@@ -1,6 +1,10 @@
 # PHP Examples
 
-Set de pruebas de php
+Set de pruebas PHP. 
+
+Muchos de los ejemplo se obtienen desde la referencia del lenguaje en la documentación oficial.
+
+* [Referencia del lenguaje ¶](https://www.php.net/manual/es/langref.php)
 
 ## Docker Compose
 Para evitar instalar PHP, es posible ejecutar los scripts mediante docker.
