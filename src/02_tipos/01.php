@@ -60,4 +60,3 @@ if (is_bool($un_bool)) {
 }
 
 
-?>
