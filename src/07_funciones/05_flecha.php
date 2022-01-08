@@ -34,3 +34,4 @@ $z = 1;
 $fn = fn($x) => fn($y) => $x * $y + $z;
 // Outputs 51
 var_dump($fn(5)(10));
+
